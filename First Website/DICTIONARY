@@ -1,0 +1,3 @@
+h1: Header tag, makes the text large and puts it on a seperate line.
+Attributes: None
+Example: <h1>Mr Pelletier</h>
