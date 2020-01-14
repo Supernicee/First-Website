@@ -1,3 +1,54 @@
 h1: Header tag, makes the text large and puts it on a seperate line.
 Attributes: None
 Example: <h1>Mr Pelletier</h>
+p: Seperates text and makes a seperate paragraph
+Attributes: None
+Example: <p>hello i like to eat food. if i put the p command at the end of this paragraph it will 
+look much prettier. blah blah aosdhipiuahsdripofuhasdufhoaiusdhfoiuahsodhiufhaosiudhfoaiusdhfoi</p>
+
+li: Lists the text you want
+Attributes: None
+Example: <li>YUMMY</li>
+
+ol: Puts numbers in front of all of the texts
+Attributes: None
+Example: 
+<ol> 
+Howdy y'all 
+</ol>
+
+a: Allows "link" to be clickable and accesible
+Attributes: href 
+Example:<a href="https://www.myeducation.gov.bc.ca/aspen/logon.do "> website</a> is great!</p>
+
+ul: Puts bullet points in front of all the texts
+Attributes: None
+Example: 
+<ul> 
+B Y U N G W O O 
+<ul>
+
+img: Represents an image in your document, and imbeds image into your image into the website
+Attributes: src
+Example: <img src="flappy bird.png">
+
+h6: Header tag, like h1 but the text is smaller.
+    There are header tags from h1 to h6. h6 is 
+	the smallest. Good for subheadings
+Attributes: None
+Example: <h6>hola senorita</h6>
+
+<!-- -->: Contains tje content of the webpage. It doesnt sheow a website, more like 
+          a note to yourself.
+Attributes: None
+Example: <!--ikjabnisdfihasidufhaisudhf-->
+
+!DOCTYPE: Selects the html version
+Attributes: html (most recent version)
+Example: <!DOCTYPE html>
+
+Head: Contains things for your brwoser to think about
+ATtributes: None
+Example: <head> <!-- contains things for your browser to think about -->
+       <title>First Website</title>
+</head>
